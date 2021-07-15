@@ -1,0 +1,7 @@
+.box{background-color: blue;
+min-height: 80px;
+margin-bottom: 60px;
+}
+.row{ min-height: 50px; }
+
+p{ text-align: center; }
